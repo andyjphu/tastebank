@@ -1,6 +1,8 @@
 Concision.
 
 
+---
+
 If it can be stated in fewer words, it must be said in fewer words
 
 if you can, state in fewer words
